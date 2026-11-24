@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://signal-speed.vercel.app/sitemap.xml
+Sitemap: https://signal-orcin-phi.vercel.app/sitemap.xml
